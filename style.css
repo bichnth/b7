@@ -1,12 +1,13 @@
 html {color: blue; width: 100%; height: 100%}
 form
 {
-  background-color: AliceBlue;
+  background-color: #F0F8FF;
   width: 600px;
   height: 400px;
 }
-p
+button
 {
   color: red;
+  background-color: gray;
 }
 
